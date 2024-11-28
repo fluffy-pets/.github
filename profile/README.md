@@ -1,5 +1,5 @@
 ## Fluffy
-| ![image](https://github.com/user-attachments/assets/118bb9e9-f56e-4a25-a432-f855ff36980c) | ![image](https://github.com/user-attachments/assets/3ba3b263-334c-48f8-b297-d874b5feb03a) |
+| ![image](https://github.com/user-attachments/assets/118bb9e9-f56e-4a25-a432-f855ff36980c) | ![image](https://github.com/user-attachments/assets/79847561-d9fb-43f9-9d5f-ed27fb60d55d) |
 |:---:|:---:|
 
 ## Arquitectura
